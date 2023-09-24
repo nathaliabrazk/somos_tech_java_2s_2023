@@ -1,7 +1,10 @@
 package exercicio02;
+//Escreva um programa Java que declare três variáveis do tipo double para representar as notas 
+//de um aluno em três provas diferentes. Calcule e exiba a média das notas.
+
 import java.util.Scanner;
 
-public class MediaCalculo{
+public class CalculoMedia{
 
     public static void main(String[] args) {
 
