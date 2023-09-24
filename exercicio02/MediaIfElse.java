@@ -8,8 +8,8 @@ public class MediaIfElse {
 
         Scanner scanner = new Scanner(System.in);
         System.out.println("Digite a primeira nota: ");
-
         double nota01 = scanner.nextDouble();
+        
         System.out.println("Digite a segunda nota: ");
         double nota02 = scanner.nextDouble();
 
