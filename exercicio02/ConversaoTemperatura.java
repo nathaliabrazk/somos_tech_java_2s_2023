@@ -1,4 +1,7 @@
 package exercicio02;
+//Escreva um programa Java que declare uma variável do tipo double para representar uma temperatura 
+//em graus Celsius. Em seguida, converta essa temperatura para Fahrenheit usando a fórmula: Fahrenheit = (Celsius * 9/5) + 32 e exiba o resultado.
+
 import java.util.Scanner;
 
 public class ConversaoTemperatura {
