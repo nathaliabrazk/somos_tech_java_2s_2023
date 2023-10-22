@@ -1,4 +1,4 @@
-package exercicio02;
+package Atividade02;
 //Crie um programa Java que declare duas variáveis do tipo String para armazenar o primeiro nome 
 //e o sobrenome de uma pessoa. Em seguida, concatene essas duas strings para formar o nome completo e exiba-o na tela.
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-package exercicio02;
+package Atividade02;
 //Peça ao usuário para inserir um número de 1 a 7 representando um dia da semana. Use uma estrutura 
 //switch para exibir o nome do dia correspondente (por exemplo, 1 = Domingo, 2 = Segunda-feira, etc.).
 //Se o usuário inserir um número fora do intervalo, mostre uma mensagem de erro.

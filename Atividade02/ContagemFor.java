@@ -1,4 +1,4 @@
-package exercicio02;
+package Atividade02;
 //Peça ao usuário para inserir um número inteiro positivo. Em seguida, crie dois programas: 
 //um usando um loop for e outro usando um loop while. Ambos devem contar e exibir todos os 
 //números pares de 1 até o número inserido pelo usuário.

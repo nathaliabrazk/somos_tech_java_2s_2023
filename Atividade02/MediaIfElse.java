@@ -1,4 +1,4 @@
-package exercicio02;
+package Atividade02;
 //Crie um programa que solicite ao usuário duas notas e calcule a média. Em seguida, utilize uma 
 //estrutura if/else para determinar se o aluno foi aprovado (média maior ou igual a 6) ou reprovado.
 import java.util.Scanner;
