@@ -5,17 +5,17 @@ package Atividade04.calculadora;
 
 //classe
 public class Calculadora {
-    // Método para somar dois números
+    // Método para somar 
     public static double somar(double a, double b) {
         return a + b;
     }
     
-    // Método para subtrair dois números
+    // Método para subtrair 
     public static double subtrair(double a, double b) {
         return a - b;
     }
     
-    // Método para multiplicar dois números
+    // Método para multiplicar 
     public static double multiplicar(double a, double b) {
         return a * b;
     }
